@@ -1,2 +1,6 @@
 #include <iostream>
-using namespace std;int main(){cout<<"Hello, World!"<<endl;return 0;}
+#include "RegularizationCore/Regularization.h"
+using namespace std;int main(){
+    GeneticAlgorithm geneticAlgorithm;
+    geneticAlgorithm.runenvolotion();
+}
