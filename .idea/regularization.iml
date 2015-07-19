@@ -2,6 +2,9 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
+    <content url="file://$USER_HOME$/cpplib/gmock-1.7.0">
+      <sourceFolder url="file://$USER_HOME$/cpplib/gmock-1.7.0" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
